@@ -1,0 +1,13 @@
+USER Anonymous\r\n
+USER Anonymous\r\nPASS \r\nQUIT\r\n\r\n\r\n
+USER Anonymous\r\nPASS \r\nQUIT\r\n
+USER Anonymous\r\nPASS \r\n
+USER Anonymous\r\nPASS \r\nPORT 192,168,1,46,155,41\r\n
+USER Anonymous\r\nPASS \r\nHELP\r\nQUIT\r\n
+USER Anonymous\r\nPASS \r\nPWD\r\nQUIT\r\n
+USER Anonymous\r\nPASS \r\nNOOP\r\nQUIT\r\n
+USER Anonymous\r\nPASS \r\nCWD public\r\nPWD\r\nQUIT\r\n
+USER Anonymous\r\nPASS \r\nCWD public\r\nPWD\r\nCDUP\r\nPWD\r\nQUIT\r\n
+USER Anonymous\r\nPASS \r\nCWD public\r\nPWD\r\nQUIT\r\n
+USER Anonymous\r\nPASS \r\nCDUP\r\nPWD\r\nQUIT\r\n
+USER Anonymous\r\nPASS \r\nCWD ..\r\nPWD\r\nQUIT\r\n
